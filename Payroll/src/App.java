@@ -1,6 +1,3 @@
-import java.util.Date;
-import java.util.Calendar;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 
 public class App {
